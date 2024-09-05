@@ -1,1 +1,1 @@
-FLAG = 'reimu{S373l4h_U4s_P4R7y_Ygy}'
+FLAG = 'what the sigma'
